@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.capa {
+    border: 10px solid black;
+    margin: auto;
+}
+
+.capa1 { background-color: red; padding: 100px; }
+.capa2 { background-color: green; padding: 90px; }
+.capa3 { background-color: yellow; padding: 80px; }
+.capa4 { background-color: pink; padding: 70px; }
+.capa5 { background-color: blue; padding: 60px; }
+.capa6 { background-color: violet; padding: 50px; }
+.capa7 { background-color: orange; padding: 40px; }
